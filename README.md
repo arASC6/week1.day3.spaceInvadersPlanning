@@ -21,9 +21,9 @@
         - Have the bullet disappear on hit, too
       - Create more enemies…
     - Be sure to assign who in your group is responsible for what
-5. Once done, [move onto the next phase!](https://docs.google.com/document/d/1qy4VkdRHMpjTprouFN01ushTIXYF-q0zuiXXiwUsA2w/edit?usp=sharing)
+5. Once done, [move onto the next phase!](https://github.com/AllStarCodeOrg/week1.day3.pokemonBattle)
 
 ## Helpful Resources:
 - [Video of Space Invaders](https://www.youtube.com/watch?v=D1jZaIPeD5w)
 - [p5.js reference](https://p5js.org/reference/)
-- [Space Invaders Rubric ](https://drive.google.com/open?id=1lBO5jk0UNVU5elj2EOcCFiCj7G7fysLSAnokhNNBb4E)
+- [Space Invaders Rubric](https://drive.google.com/open?id=1lBO5jk0UNVU5elj2EOcCFiCj7G7fysLSAnokhNNBb4E)
